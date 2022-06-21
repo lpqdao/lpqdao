@@ -24,7 +24,7 @@ Let's connect!
 
 
 <h1 align="left">
-Here are some stats this year!
+Here are some stats this year so far!
 </h1>
  
 <h1 float="left">
