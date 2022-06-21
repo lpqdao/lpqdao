@@ -10,7 +10,6 @@ Hi! I'm a recent Cornell Computer and Information Science grad working on develo
 <p align="center">
 
 
-
 [![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpqdao)](https://github.com/lpqdao/github-readme-stats)
 
 
