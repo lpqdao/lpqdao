@@ -35,6 +35,11 @@ Here are some stats this year!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpqdao)](https://github.com/lpqdao/github-readme-stats)
 
 </h1>
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+[![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpqdao)](https://github.com/lpqdao/github-readme-stats)
+ |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpqdao)](https://github.com/lpqdao/github-readme-stat
 <!--
 **lpqdao/lpqdao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
