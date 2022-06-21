@@ -11,11 +11,11 @@ Let's connect!
 </h1>
 
 <p align="left">
-  <a href="https://www.gracele.me/"> - gracele.me</a>   
+  - <a href="https://www.gracele.me/">gracele.me</a>   
  </p>
  
  <p align="left">
-  <a href="https://www.linkedin.com/in/grace-le-536139100/">- LinkedIn</a>   
+  - <a href="https://www.linkedin.com/in/grace-le-536139100/">LinkedIn</a>   
  </p>
  
   <p align="left">
