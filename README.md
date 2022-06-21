@@ -11,20 +11,23 @@ Let's connect!
 </h1>
 
 <p align="left">
-  <a href="https://www.gracele.me/">gracele.me</a>   
+  <a href="https://www.gracele.me/"> - gracele.me</a>   
  </p>
  
  <p align="left">
-  <a href="https://www.linkedin.com/in/grace-le-536139100/">LinkedIn</a>   
+  <a href="https://www.linkedin.com/in/grace-le-536139100/">- LinkedIn</a>   
  </p>
  
   <p align="left">
-  dl2228@cornell.edu
+  - dl2228@cornell.edu
  </p>
 
+
+<h1 align="left">
+Here are some stats this year!
+</h1>
  
 <h1 align="left">
-
 
 [![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpqdao)](https://github.com/lpqdao/github-readme-stats)
 
