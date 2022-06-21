@@ -1,3 +1,4 @@
+<h1 align="center">
 ### Hi there 👋
 
 Hi! I'm a recent Cornell Computer and Information Science grad working on developing software. At Cornell, I was fortunate enough to conduct research on 3D graph exploration in mixed reality at the [Englander Intitute for Precision Medicine](https://eipm.weill.cornell.edu/) under [Professors Alexandros Sigaras](https://eipm.weill.cornell.edu/team/alex-sigaras/) and [Olivier Elemento](https://eipm.weill.cornell.edu/team/olivier-elemento-3/). My interests, therefore, emerge with a curiousity about how we use technology to make better decisions in healthcare.
@@ -7,6 +8,7 @@ Hi! I'm a recent Cornell Computer and Information Science grad working on develo
 - [LinkedIn](https://www.linkedin.com/in/grace-le-536139100/)
 - dl2228@cornell.edu
 
+  </h1>
 <h1 align="center">
 
 
