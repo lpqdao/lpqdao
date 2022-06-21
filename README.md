@@ -6,24 +6,24 @@ Hi! 👋
 I'm a recent Cornell Computer and Information Science grad working on developing software. At Cornell, I was fortunate enough to conduct research on 3D graph exploration in mixed reality at the <a href="https://eipm.weill.cornell.edu/">Englander Intitute for Precision Medicine</a> under Professors  <a href="https://eipm.weill.cornell.edu/team/alex-sigaras/">Alexandros Sigaras</a> and <a href="https://eipm.weill.cornell.edu/team/olivier-elemento-3/">Olivier Elemento</a>. My interests, therefore, emerge with a curiousity about how we use technology to make better decisions in healthcare.
 </p>
 
-<h1 align="center">
+<h1 align="left">
 Let's connect!
 </h1>
 
-<p align="center">
+<p align="left">
   <a href="https://www.gracele.me/">gracele.me</a>   
  </p>
  
- <p align="center">
+ <p align="left">
   <a href="https://www.linkedin.com/in/grace-le-536139100/">LinkedIn</a>   
  </p>
  
-  <p align="center">
+  <p align="left">
   dl2228@cornell.edu
  </p>
 
  
-<h1 align="center">
+<h1 align="left">
 
 
 [![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpqdao)](https://github.com/lpqdao/github-readme-stats)
