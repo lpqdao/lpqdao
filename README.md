@@ -5,7 +5,9 @@ Hi! I'm a recent Cornell Computer and Information Science grad working on develo
 ### You can reach me at:
 - [gracele.me](https://www.gracele.me/)
 - [LinkedIn](https://www.linkedin.com/in/grace-le-536139100/)
-- [dl2228@cornell.edu]()
+- [dl2228@cornell.edu]
+
+[![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpqdao)](https://github.com/lpqdao/github-readme-stats)
 
 
 <!--
