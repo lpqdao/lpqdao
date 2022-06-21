@@ -7,6 +7,8 @@ Hi! I'm a recent Cornell Computer and Information Science grad working on develo
 - [LinkedIn](https://www.linkedin.com/in/grace-le-536139100/)
 - dl2228@cornell.edu
 
+<p align="center">
+
 
 
 [![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpqdao)](https://github.com/lpqdao/github-readme-stats)
@@ -14,7 +16,7 @@ Hi! I'm a recent Cornell Computer and Information Science grad working on develo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpqdao)](https://github.com/lpqdao/github-readme-stats)
 
-
+</p>
 <!--
 **lpqdao/lpqdao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
