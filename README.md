@@ -15,7 +15,7 @@ You can reach me at:
  </p>
  
  <p align="center">
- - <a href="https://www.linkedin.com/in/grace-le-536139100/">gLinkedIne</a>   
+ - <a href="https://www.linkedin.com/in/grace-le-536139100/">LinkedIne</a>   
  </p>
  
   <p align="center">
