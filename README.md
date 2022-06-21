@@ -31,7 +31,7 @@ Here are some stats this year so far!
 
 [![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpqdao)](https://github.com/lpqdao/github-readme-stats) 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpqdao)](https://github.com/lpqdao/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpqdao&layout=compact)](https://github.com/lpqdao/github-readme-stats)
 
 
 
