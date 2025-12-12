@@ -23,13 +23,6 @@ Let's connect!
  </p>
 
 
-<h1 align="left">
-Here are some stats this year so far!
-</h1>
- 
-<h1 float="left">
-
-
 
 
 
