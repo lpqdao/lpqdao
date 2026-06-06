@@ -3,7 +3,7 @@ Hi! 👋
 </h1>
 
 <p align="left">
-I graduated from Cornell Computer and Information Science and am passionate about healthcare. I am working on developing software. I worked at as a software engineer at Amazon for 2 years, and at MITRE for 1.5 years before that. At Amazon, I engineered large-scale catalog data pipelines handling 10K+ TPS with low-latency reliability. At Cornell, I was fortunate enough to conduct research on 3D graph exploration in mixed reality at the <a href="https://eipm.weill.cornell.edu/">Englander Intitute for Precision Medicine</a> under Professors  <a href="https://eipm.weill.cornell.edu/team/alex-sigaras/">Alexandros Sigaras</a> and <a href="https://eipm.weill.cornell.edu/team/olivier-elemento-3/">Olivier Elemento</a>. My interests, therefore, emerge with a curiousity about how we use technology to make better decisions in healthcare.
+I graduated from Cornell Computer and Information Science and am passionate about healthcare. I am working on developing software. I've  worked at as a software engineer at Amazon for 2 years, and at MITRE for 1.5 years before that. At Amazon, I engineered large-scale catalog data pipelines handling 10K+ TPS with low-latency reliability. At Cornell, I was fortunate enough to conduct research on 3D graph exploration in mixed reality at the <a href="https://eipm.weill.cornell.edu/">Englander Intitute for Precision Medicine</a> under Professors  <a href="https://eipm.weill.cornell.edu/team/alex-sigaras/">Alexandros Sigaras</a> and <a href="https://eipm.weill.cornell.edu/team/olivier-elemento-3/">Olivier Elemento</a>. My interests, therefore, emerge with a curiousity about how we use technology to make better decisions in healthcare.
 </p>
 
 <h1 align="left">
